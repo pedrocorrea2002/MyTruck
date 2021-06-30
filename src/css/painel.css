@@ -1,0 +1,117 @@
+html,body {
+    font-family: 'Open Sans', serif;
+    /* background-color: goldenrod; */
+}
+
+.super-header {
+    background-color: goldenrod;
+}
+
+.header {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo-container {
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.logo-image {
+    height: 100px;
+    width: 100px;
+}
+
+.logo-text {
+    color: white;
+    font-size: 60px;
+    font-weight: bolder;
+}
+
+.options-container {
+    flex-direction: row;
+    display: flex;
+}
+
+.option {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.welcome {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-top: 20px;
+}
+
+.content {
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+
+}
+
+.info-container {
+    margin-left: 10px;
+}
+
+.info-title {
+    margin-top: 10px;
+    font-size:10px;
+}
+
+.info {
+    font-size: 20px;
+}
+
+.truck-types {
+    flex-wrap: wrap;
+    display: flex;
+}
+
+.truck-container {
+    margin-right: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.truck-logo {
+    height:240px;
+    width:288px;
+}
+
+.submit-button {
+    margin-top:30px;
+    font-size: 20px;
+    background-color: goldenrod;
+    color: white;
+}
+
+.not_found {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: red;
+    width: 400px;
+    color: white;
+}
+
+.all_right_container {
+    margin-top: 20px;
+    margin-bottom: 10px;
+    background-color: green;
+    width: 600px;
+    color: white;
+}
+
+.all_right_text {
+    margin-left: 10px;
+}
