@@ -1,4 +1,4 @@
-# MyTruck
+# 🚚🚛MyTruck🚛🚚
 Website básico para fazer seus pedidos na empresa ficticia MyTruck
 
 Referencias usadas:
