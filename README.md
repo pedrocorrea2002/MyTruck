@@ -17,7 +17,7 @@
 > ```
 > If you don't have Git installed on your machine you can [download it](https://git-scm.com/downloads) and [setup it by following this manual](https://gitforwindows.org)
 > <br>OR</br>
-> You can [download the file in .ZIP](https://github.com/pedrocorrea2002/MyTruck/archive/refs/heads/main.zip) of the project and extract on your computer
+> You can [download the file in .ZIP](https://github.com/pedrocorrea2002/MyTruck/archive/refs/heads/main.zip) of the project and extract it on your computer
 
 ## 📚 References:
 
