@@ -1,13 +1,22 @@
-## ⚠About
+## ℹ About
 ### Basic website to order your customized fleet of trucks from the fictitious company ***MyTruck***
 
-## 🛠Tools:
+## 🛠 Tools:
 - PHP
 - MySQL
 
-<!-- ## How to setup: -->
+## ⚠ Requirements:
+- It's necessary that you have MySQL installed on your machine
+- It's necessary that you have WampServer installed on your machine
 
-## 📚References:
+## 👨‍💻 How to setup:
+
+```bash
+    # Clone the project
+    $ git clone https://github.com/pedrocorrea2002/MyTruck.git  
+```
+
+## 📚 References:
 
 SignIn function:
 https://www.youtube.com/watch?v=GAGRrVVD3js
