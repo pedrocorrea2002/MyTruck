@@ -1,10 +1,16 @@
-# 🚚🚛MyTruck🚛🚚
-Website básico para fazer seus pedidos na empresa ficticia MyTruck
+## ⚠About
+### Basic website to order your customized fleet of trucks from the fictitious company ***MyTruck***
 
-Referencias usadas:
+## 🛠Tools:
+- PHP
+- MySQL
 
-Função de login:
+<!-- ## How to setup: -->
+
+## 📚References:
+
+SignIn function:
 https://www.youtube.com/watch?v=GAGRrVVD3js
 
-Função de cadastro:
+SiginUp function:
 https://www.youtube.com/watch?v=6FdguCuauEI
